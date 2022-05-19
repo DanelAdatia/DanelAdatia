@@ -1,6 +1,12 @@
-Hey :grinning:
- 
-I am Danel, a Full Stack Developer, who loves to code.
-How to reach me? - daneladatia@gmail.com
+Hi 👋 My name is Danel
+======================
 
-I had done many projects in the past that I didn't push to GitHub, But now I try my best to push all the code I do apart from my JOB code.. the code that I do to learn and grow - I will push them to GitHub :grinning:
+Web Developer
+-------------
+
+I've done a lot of projects in the past that I didn't submit to GitHub, but now I attempt to push all of the code I write outside of my JOB code to GitHub.
+
+*   🌍  I'm based in India
+*   ✉️  You can contact me at [daneladatia@gmail.com](mailto:daneladatia@gmail.com)
+*   🤝  I'm open to collaborating on Interesting Projects
+*   ⚡  I began my career as a full stack developer, which I did for a year, but now I work as a frontend developer.
