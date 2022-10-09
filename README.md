@@ -4,7 +4,7 @@ Hi 👋 My name is Danel
 Web Developer
 -------------
 
-I've been professionally coding for over a year and a half; I began as a full stack developer, which I did for a year, but I'm now a frontend developer.
+I've been professionally coding for around 2years; I began as a full stack developer, which I did for a year, but I'm now a frontend developer.
 
 
 * ✉️  You can contact me at [daneladatia@gmail.com](mailto:daneladatia@gmail.com)
