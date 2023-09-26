@@ -5,6 +5,7 @@
 🔧 **Tech Stack**:  `ReactJS` `NextJS` `Typescript` `MySQL` `Golang` `Node.js` `HTML` `CSS` `JavaScript` `Python`
 
 🎓 **B.Tech.**: Computer Science Engineering
+
 🎸 **Interests**: Singing, Guitar, & an Active Lifestyle
 
 🔗 **Portfolio**: [View Here](https://sugarbee3.com/)  
