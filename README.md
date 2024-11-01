@@ -8,7 +8,7 @@
 
 🎸 **Interests**: Singing, Guitar, & an Active Lifestyle
 
-🔗 **Portfolio**: [View Here]([https://sugarbee3.com/](https://daneladatia.netlify.app/))  
+🔗 **Portfolio**: [View Here](https://daneladatia.netlify.app/)  
 📧 **Email**: daneladatia@gmail.com  
 🔗 **LinkedIn**: [Danel Adatia](https://www.linkedin.com/in/danel-adatia-4b3019203/)
 
