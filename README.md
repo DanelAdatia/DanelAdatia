@@ -1,6 +1,6 @@
 ### Hi there, I'm Danel Adatia 👋
 
-🌐 **Front-end Developer** | 4 years of experience
+🌐 **Front-end Developer** | 4.5+ years of experience
 
 🔧 **Tech Stack**:  `ReactJS` `NextJS` `Typescript` `MySQL` `Golang` `Node.js` `HTML` `CSS` `JavaScript` `Python` `Jest` `Storybook`
 
